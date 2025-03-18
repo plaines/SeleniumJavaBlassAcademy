@@ -1,0 +1,15 @@
+11:21:52.555 INFO  AUTOMATION - Suite iniciada Default Suite
+
+11:21:52.611 DEBUG AUTOMATION - Borando las carpetas de evidencia
+11:21:52.741 DEBUG AUTOMATION - Inicia el Driver
+11:21:54.459 DEBUG AUTOMATION - Maximizando patanlla
+11:21:54.511 DEBUG AUTOMATION - Borrando las cookies
+11:21:54.527 DEBUG AUTOMATION - Seteando implicit wait
+11:21:54.532 DEBUG AUTOMATION - Asigando driver
+11:21:54.639 INFO  AUTOMATION - Comenzando el test subirImagenTest
+
+11:21:55.950 INFO  AUTOMATION - Test exitoso subirImagenTest
+
+11:21:55.951 DEBUG AUTOMATION - Termina el Driver
+11:21:56.129 INFO  AUTOMATION - Suite finalizada Default Suite
+
